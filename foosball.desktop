@@ -7,5 +7,5 @@ Icon=foosball.png
 Exec=foosball
 Terminal=false
 Type=Application
-Categories=Application;Game;ArcadeGame
+Categories=Application;Game;ArcadeGame;
 # vi: encoding=utf-8
