@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Foosball
+Comment=Table football game
+Comment[pl]=Gra w piłkarzyki
+Icon=foosball.png
+Exec=foosball
+Terminal=false
+Type=Application
+Categories=Application;Game;ArcadeGame
+# vi: encoding=utf-8
