@@ -2,7 +2,7 @@ Summary:	Foosball is an open source foosball (Table Football) game
 Summary(pl):	Foosball jest gr± w pi³karzyki
 Name:		foosball
 Version:	0.92
-Release:	1
+Release:	2
 License:	GPL
 Group:		X11/Applications/Games
 Source0:	http://www.autismuk.freeserve.co.uk/%{name}-%{version}.tar.gz
