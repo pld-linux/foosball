@@ -28,7 +28,7 @@ gry.
 %setup -q
 
 %build
-cp -f /usr/share/automake/config.sub .
+cp -f /usr/share/automake/config.sub admin
 %configure
 %{__make}
 
