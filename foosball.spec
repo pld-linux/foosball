@@ -2,7 +2,7 @@ Summary:	Foosball is an open source foosball (Table Football) game
 Summary(pl):	Foosball jest gr± w pi³karzyki
 Name:		foosball
 Version:	0.92
-Release:	2
+Release:	3
 License:	GPL
 Group:		X11/Applications/Games
 Source0:	http://www.autismuk.freeserve.co.uk/%{name}-%{version}.tar.gz
@@ -11,6 +11,7 @@ Source1:	%{name}.desktop
 Source2:	%{name}.png
 URL:		http://freshmeat.net/projects/foosball/
 BuildRequires:	SDL-devel >= 1.2.0
+BuildRequires:	automake
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
@@ -27,6 +28,7 @@ gry.
 %setup -q
 
 %build
+cp -f /usr/share/automake/config.sub .
 %configure
 %{__make}
 
