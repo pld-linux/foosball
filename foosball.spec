@@ -12,6 +12,7 @@ Source2:	%{name}.png
 URL:		http://freshmeat.net/projects/foosball/
 BuildRequires:	SDL-devel >= 1.2.0
 BuildRequires:	automake
+BuildRequires:	libstdc++-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
