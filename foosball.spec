@@ -1,5 +1,5 @@
 Summary:	Foosball is an open source foosball (Table Football) game
-Summary(pl):	Foosball jest gr± w pi³karzyki
+Summary(pl.UTF-8):   Foosball jest grÄ… w piÅ‚karzyki
 Name:		foosball
 Version:	0.92
 Release:	3
@@ -20,9 +20,9 @@ Foosball is an open source foosball (Table Football) game that uses
 SDL. It allows you to play against the computer, or to play against a
 friend. Various formations and game speeds are available.
 
-%description -l pl
-Foosball jest gr± w pi³karzyki u¿ywaj±c± biblioteki SDL. Mo¿na graæ z
-komputerem lub z inn± osob±. Dostêpne s± ró¿ne ustawienia i szybko¶ci
+%description -l pl.UTF-8
+Foosball jest grÄ… w piÅ‚karzyki uÅ¼ywajÄ…cÄ… biblioteki SDL. MoÅ¼na graÄ‡ z
+komputerem lub z innÄ… osobÄ…. DostÄ™pne sÄ… rÃ³Å¼ne ustawienia i szybkoÅ›ci
 gry.
 
 %prep
