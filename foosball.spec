@@ -1,5 +1,5 @@
 Summary:	Foosball is an open source foosball (Table Football) game
-Summary(pl.UTF-8):   Foosball jest grą w piłkarzyki
+Summary(pl.UTF-8):	Foosball jest grą w piłkarzyki
 Name:		foosball
 Version:	0.92
 Release:	3
