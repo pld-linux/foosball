@@ -1,9 +1,8 @@
 [Desktop Entry]
-Encoding=UTF-8
 Name=Foosball
 Comment=Table football game
 Comment[pl]=Gra w piłkarzyki
-Icon=foosball.png
+Icon=foosball
 Exec=foosball
 Terminal=false
 Type=Application
